@@ -1,4 +1,3 @@
-<img align="center" alt="Hey" src="file:///C:/Users/nmelo/Downloads/Design%20sem%20nome%20(2).svg">
 
 ⌢ : ♡ ⤹ ぃ ﾟ. welcome! ⭐
  
