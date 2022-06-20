@@ -3,8 +3,8 @@
  
  Hey, I’m @akio-orestes ⭐
  
- Mainly working with UX & UI Solutions, a bit of Front-End Development and Digital Illustration 
- I’m currently learning ...⭐ UX & UI, Digital Marketing, HTML, CSS3, JavaScript, React ⭐
+ Mainly working with UX & UI Solutions, a bit of Front-End Development and Digital Illustration <br>
+ I’m currently learning ...⭐ User Experience, HTML5, CSS3, JavaScript, SASS, React.JS ⭐
  
 ⭐Reach me at: 
  <div> 
