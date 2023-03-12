@@ -4,7 +4,7 @@
  <h3>Hey, I’m @akio-orestes ⭐</h3>
  
  Mainly working with UX & UI Solutions, a bit of Front-End Development and Digital Illustration <br>
- I’m currently learning ...⭐ <em> User Experience, HTML5, CSS3, JavaScript, SASS, React.JS </em>⭐
+ I’m currently learning ...⭐ <em> User Experience, HTML5, CSS3, JavaScript, SASS, Bootstrap </em>⭐
  
 ⭐Reach me at: 
  <div> 
