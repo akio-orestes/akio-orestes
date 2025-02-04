@@ -8,7 +8,7 @@
  freelancing since high school. <br><br>
  Currently learning: <em> HTML5, CSS3, JavaScript, Bootstrap </em>⭐
  
-⭐Reach me: 
+<strong>Reach me:<strong> 
  <div> 
   <a href="https://www.linkedin.com/in/akio-orestes-7604221b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.akio.ink" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
