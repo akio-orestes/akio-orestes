@@ -1,5 +1,5 @@
 
-⌢ : ♡ ⤹ ぃ ﾟ. welcome! ⭐
+⌢ : ♡ ⤹ ぃ ﾟ. welcome!
  
  <h3>Hello, I’m @akio-orestes ⭐</h3>
  
