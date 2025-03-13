@@ -6,7 +6,7 @@
  Design is all about connection: with people, diverse cultures, places, and worlds. Understanding is what I do most every day—overcoming barriers, researching accessible ways to communicate ideas, and developing 
  solutions to everyday problems. I am a front-end designer based in São Paulo, currently working at one of the largest educational institutions in Brazil. Before, I worked in the tech field and have been 
  freelancing since high school. <br><br>
- Currently learning: <em> HTML5, CSS3, JavaScript, Bootstrap </em>⭐
+ Currently learning: <em> HTML5, CSS3, JavaScript, Bootstrap5 </em>⭐
  
 <strong>Reach me:<strong> 
  <div> 
